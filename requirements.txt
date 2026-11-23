@@ -1,0 +1,5 @@
+# torch must be a CUDA build matching your platform (aarch64 on DGX Spark: use the NGC
+# container or the cu128/cu130 aarch64 wheels) -- not pinned here on purpose.
+pytest
+matplotlib
+ninja

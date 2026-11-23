@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+build/
+*.egg-info/
+*.so
+.pytest_cache/
+*.ncu-rep
+*.nsys-rep
+*.sqlite
